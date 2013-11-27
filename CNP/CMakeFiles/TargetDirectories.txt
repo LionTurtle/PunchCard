@@ -1,0 +1,2 @@
+/home/mark/Dev/CNP/CMakeFiles/PunchCard.dir
+/home/mark/Dev/CNP/CMakeFiles/PunchCard_automoc.dir

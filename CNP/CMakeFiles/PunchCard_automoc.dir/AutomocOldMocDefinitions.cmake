@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS " ~~~ /home/mark/Dev/CNP;/home/mark/Qt5.1.0/5.1.0/gcc_64/include;/home/mark/Qt5.1.0/5.1.0/gcc_64/include/QtWidgets;/home/mark/Qt5.1.0/5.1.0/gcc_64/include/QtGui;/home/mark/Qt5.1.0/5.1.0/gcc_64/include/QtCore;/home/mark/Qt5.1.0/5.1.0/gcc_64/mkspecs/linux-g++ ~~~  ~~~ FALSE ~~~ ")
